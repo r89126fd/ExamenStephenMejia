@@ -1,0 +1,14 @@
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\bin\Debug\net8.0\ExamenStephenMejia.exe
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\bin\Debug\net8.0\ExamenStephenMejia.deps.json
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\bin\Debug\net8.0\ExamenStephenMejia.runtimeconfig.json
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\bin\Debug\net8.0\ExamenStephenMejia.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\bin\Debug\net8.0\ExamenStephenMejia.pdb
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ExamenStephenMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ExamenStephenMejia.AssemblyInfoInputs.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ExamenStephenMejia.AssemblyInfo.cs
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ExamenStephenMejia.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ExamenStephenMejia.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\refint\ExamenStephenMejia.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ExamenStephenMejia.pdb
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ExamenStephenMejia.genruntimeconfig.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Tercer Periodo\Programacion 2\Semana 5\Examen\ExamenStephenMejia\ExamenStephenMejia\obj\Debug\net8.0\ref\ExamenStephenMejia.dll
